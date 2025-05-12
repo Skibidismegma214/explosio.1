@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1747071740
+explosion.wav::AudioStreamWAV::7682522250312072891::1747071740::1747071741::1::::<><><>0<>0<>7d6515379a3bc4a75948e2fccf3002d8<>res://.godot/imported/explosion.wav-a595096ecd3e80c5997ac70fba7fa257.sample::
+icon.svg::CompressedTexture2D::3246541336658246030::1747066424::1747066448::1::::<><><>0<>0<>9696a94fb87c23e8cde2c2481e1fd038<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+explosió.gd::GDScript::5521068976805970092::1747067439::0::1::::<>Node2D<><>0<>0<><>::
+explosió.tscn::PackedScene::4166554325595795732::1747068528::0::1::::<><><>0<>0<><>::uid://ckwpg1runiy1i::::res://explosió.gd
+foc.gd::GDScript::4444505003911849038::1747068463::0::1::::<>Node2D<><>0<>0<><>::
+foc.tscn::PackedScene::713933553634014887::1747068528::0::1::::<><><>0<>0<><>::uid://b4k7l3mku5lqs::::res://foc.gd
